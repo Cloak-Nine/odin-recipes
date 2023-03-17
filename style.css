@@ -1,0 +1,50 @@
+/* The Odin Project Recipes - CSS */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    background-color: azure;
+}
+
+.un-list li {
+    font-size: 16px;
+    background-color: rgb(211, 211, 211);
+}
+
+.or-list li {
+    font-size: 16px;
+    background-color: rgba(245, 245, 220, 0.775);
+}
+
+#Description {
+    font-size: 28px;
+    background-color: rgb(48, 48, 125);
+    color: white;
+    font-weight: bold;
+}
+
+ #Ingredients {
+    font-size: 24px;
+    background-color: rgba(0, 128, 0, 0.343);
+    color: white;
+    font-weight: bold;
+ }
+
+ #Steps {
+    font-size: 24px;
+    background-color: rgba(189, 183, 107, 0.782);
+    font-weight: bold;
+ }
+
+ #image {
+    height: auto;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+ }
